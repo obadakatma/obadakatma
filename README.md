@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obadakatma
 - 👀 I’m interested in programming and robotics
-- 🌱 I’m currently learning python and flutter development
+- 🌱 I’m currently learning python , computer vision and flutter development
 - 💞️ I’m looking to collaborate with ambitious people
 - 📫 How to reach me obadaktm@gmail.com
 
