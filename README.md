@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate with **ambitious people**
 
-- 👨‍💻 All of my projects are available at [https://github.com/obadakatma?tab=repositories](https://github.com/obadakatma?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/obadakatma?tab=repositories)
 
 - 📫 How to reach me **obadaktm@gmail.com**
 
