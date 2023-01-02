@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Obada Katma</h1>
 <h3 align="center">Interested in programming and robotics</h3>
 
-- 🌱 I’m currently learning **python, computer vision and flutter development**
+- 🌱 I’m currently learning **python, computer vision and AI**
 
 - 👯 I’m looking to collaborate with **ambitious people**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/obadakatma?tab=repositories)
 
 - 📫 How to reach me [LinkedIn_Account](https://www.linkedin.com/in/obada-katma-437409237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkvV5065TIKqZ2hkERH00Q%3D%3D)
-
-- ⚡ Fun fact **I love lions🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
