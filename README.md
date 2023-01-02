@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/obadakatma?tab=repositories)
 
-- 📫 How to reach me [Linkedin_Account](https://www.linkedin.com/in/obada-katma-437409237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkvV5065TIKqZ2hkERH00Q%3D%3D)
+- 📫 How to reach me [LinkedIn_Account](https://www.linkedin.com/in/obada-katma-437409237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkvV5065TIKqZ2hkERH00Q%3D%3D)
 
 - ⚡ Fun fact **I love lions🤣**
 
