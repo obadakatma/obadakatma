@@ -4,12 +4,12 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obadakatma&label=Profile%20views&color=0e75b6&style=flat" alt="obadakatma" /> </p>  
   
-- 🌱 I’m currently learning **ML and Backend development using Django**  
+- 🌱 I’m currently learning **Machine Learning**  
   
 - 👯 I’m looking to collaborate with **ambitious people**  
   
 - 👨‍💻 All of my projects are available at [Here](https://github.com/obadakatma?tab=repositories)  
-- 💬 Ask me about **opencv ,flask**  
+- 💬 Ask me about **opencv ,Telegram Bot**  
   
 - 📫 How to reach me **obadaktm@gmail.com**  
   
